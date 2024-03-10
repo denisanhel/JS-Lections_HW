@@ -66,3 +66,5 @@ for (const listOfItem of listOfItems) {
     document.write(`<li>` + listOfItem + `</li>`)
 }
 document.write(`<ul>`)
+
+
